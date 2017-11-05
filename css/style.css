@@ -1,0 +1,23 @@
+body {
+   
+}
+
+h4 {
+  font-size: 12px;
+  color: red;
+}
+
+#header {
+  background-color:black; 
+  height:300px;
+}
+
+img{
+  border-radius: 100%;
+    margin-left: 50%;
+    max-width: 300px;
+}
+
+.margin-fix {
+  margin-left: 10px;
+}

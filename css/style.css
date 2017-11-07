@@ -8,14 +8,20 @@ h4 {
 }
 
 #header {
-  background-color:black; 
   height:300px;
+}
+
+contact-details {
+  margin-right: auto;
+  margin-left: auto;
 }
 
 img{
   border-radius: 100%;
-    margin-left: 50%;
-    max-width: 300px;
+  max-width: 200px;
+  margin-top: 45px;
+    
+
 }
 
 .margin-fix {

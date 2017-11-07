@@ -27,3 +27,13 @@ img{
 .margin-fix {
   margin-left: 0px;
 }
+
+.red-row{
+  background-color: red;
+  height: 50px;
+}
+
+hr{
+  height: 1px;
+  background-color: red;
+}

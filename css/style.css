@@ -1,5 +1,7 @@
 body {
-   
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
 }
 
 h4 {
@@ -11,21 +13,27 @@ h4 {
   height:300px;
 }
 
-contact-details {
-  margin-right: auto;
-  margin-left: auto;
-}
 
 img{
+  margin-top: 2vw;
+  width: 15vw;
   border-radius: 100%;
-  max-width: 200px;
-  margin-top: 45px;
-    
+  border-width: 6px;
+  border-color:#1A226F;
+  border-style: solid;
+  margin-left: 2vw;
+}
 
+.contact-details{
+ padding-top: 1.5cm;
 }
 
 .margin-fix {
   margin-left: 0px;
+}
+
+p1{
+  font-family: Courier;
 }
 
 .red-row{
@@ -37,3 +45,4 @@ hr{
   height: 1px;
   background-color: red;
 }
+

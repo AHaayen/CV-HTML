@@ -36,6 +36,10 @@ p1{
   font-family: Courier;
 }
 
+#languages{
+  font-family: Georgia;
+}
+
 .red-row{
   background-color: red;
   height: 80px;

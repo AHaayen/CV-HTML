@@ -9,23 +9,26 @@ h4 {
   color: red;
 }
 
-#header {
-  height:300px;
+.header {
+  padding-top:20px;
+  border-bottom-style:solid;
+  border-bottom-width: 2px;
+  border-bottom-color:red;
 }
 
 
 img{
-  margin-top: 2vw;
-  width: 15vw;
+  margin-top: 25px;
+  margin-left: 25%;
+  width: 50%;
   border-radius: 100%;
   border-width: 6px;
   border-color:#1A226F;
   border-style: solid;
-  margin-left: 2vw;
 }
 
 .contact-details{
- padding-top: 1.5cm;
+  margin-top: 25px;
 }
 
 .margin-fix {
